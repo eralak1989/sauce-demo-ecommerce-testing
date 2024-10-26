@@ -1,0 +1,12 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Cypress specific files
+cypress/screenshots/
+cypress/videos/
